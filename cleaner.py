@@ -3,6 +3,7 @@
 Textwall.cc cleaner by TendingStream73
 Recommended settings:
 Zoom: 91%
+Black theme
 """
 __version__ = 1.0
 __author__ = "TendingStream73"
